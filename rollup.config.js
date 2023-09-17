@@ -13,11 +13,11 @@ const banner = `/*!
 
 const input = 'src/index.js';
 const external = [
-  'chart.js',
+  'ilkkah-chart.js',
   'luxon'
 ];
 const globals = {
-  'chart.js': 'Chart',
+  'ilkkah-chart.js': 'Chart',
   luxon: 'luxon'
 };
 
