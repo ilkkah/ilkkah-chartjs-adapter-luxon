@@ -35,7 +35,7 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-terser": "^0.4.0",
-    "chart.js": "^4.0.1",
+    "ilkkah-chart.js": "^4.0.1",
     "chartjs-test-utils": "^0.5.0",
     "concurrently": "^7.5.0",
     "cross-env": "^7.0.3",
@@ -55,7 +55,7 @@
     "yargs": "^17.6.2"
   },
   "peerDependencies": {
-    "chart.js": ">=3.0.0",
+    "ilkkah-chart.js": ">=3.0.0",
     "luxon": ">=1.0.0"
   }
 }

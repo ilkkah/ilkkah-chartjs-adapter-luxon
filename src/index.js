@@ -1,4 +1,4 @@
-import {_adapters} from 'chart.js';
+import {_adapters} from 'ilkkah-chart.js';
 import {DateTime} from 'luxon';
 
 const FORMATS = {
